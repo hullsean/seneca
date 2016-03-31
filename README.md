@@ -12,3 +12,9 @@ This is [my blog](http://www.iheavy.com)
 
 
 Hello cloud gurus!!
+
+
+
+- PULLING IN CHANGES
+- We're doing bullet points
+- 
