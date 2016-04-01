@@ -1,3 +1,4 @@
+# THIS WILL BE A CONFLICT
 # seneca
 test repository
 
