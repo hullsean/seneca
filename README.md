@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # THIS WILL BE A CONFLICT
+=======
+# ADDING THIS LINE INSTEAD!
+>>>>>>> bb767efd299ad0e1f326597b1b8e6c3fc65b6d26
+# THIS WILL BE A CONFLICT
+# ADDING THIS LINE INSTEAD!
 # seneca
 test repository
 
